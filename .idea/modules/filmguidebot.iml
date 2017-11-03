@@ -22,33 +22,33 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="SBT: com.chuusai:shapeless_2.11:2.0.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.h2database:h2:1.4.186:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.typesafe:config:1.2.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.typesafe.akka:akka-actor_2.11:2.3.9:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.typesafe.akka:akka-slf4j_2.11:2.3.9:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.typesafe.slick:slick_2.11:2.1.0:jar" level="project" />
-    <orderEntry type="library" name="SBT: com.wandoulabs.akka:spray-websocket_2.11:0.1.4:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.scalac:slack-scala-bot-core_2.11:0.2.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.spray:spray-can_2.11:1.3.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.spray:spray-client_2.11:1.3.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.spray:spray-http_2.11:1.3.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.spray:spray-httpx_2.11:1.3.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.spray:spray-io_2.11:1.3.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.spray:spray-json_2.11:1.3.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.spray:spray-routing-shapeless2_2.11:1.3.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: io.spray:spray-util_2.11:1.3.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: joda-time:joda-time:2.7:jar" level="project" />
-    <orderEntry type="library" name="SBT: log4j:log4j:1.2.17:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.hamcrest:hamcrest-core:1.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.joda:joda-convert:1.7:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.jvnet.mimepull:mimepull:1.9.4:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.mockito:mockito-core:1.10.19:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.objenesis:objenesis:2.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.parboiled:parboiled-core:1.1.6:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.parboiled:parboiled-scala_2.11:1.1.6:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.1:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-xml_2.11:1.0.2:jar" level="project" />
-    <orderEntry type="library" name="SBT: org.slf4j:slf4j-api:1.7.5:jar" level="project" />
     <orderEntry type="library" name="SBT: org.slf4j:slf4j-log4j12:1.7.5:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.slf4j:slf4j-api:1.7.5:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang.modules:scala-xml_2.11:1.0.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.parboiled:parboiled-scala_2.11:1.1.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.parboiled:parboiled-core:1.1.6:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.objenesis:objenesis:2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.mockito:mockito-core:1.10.19:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.jvnet.mimepull:mimepull:1.9.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.joda:joda-convert:1.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.hamcrest:hamcrest-core:1.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: log4j:log4j:1.2.17:jar" level="project" />
+    <orderEntry type="library" name="SBT: joda-time:joda-time:2.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.spray:spray-util_2.11:1.3.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.spray:spray-routing-shapeless2_2.11:1.3.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.spray:spray-json_2.11:1.3.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.spray:spray-io_2.11:1.3.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.spray:spray-httpx_2.11:1.3.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.spray:spray-http_2.11:1.3.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.spray:spray-client_2.11:1.3.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.spray:spray-can_2.11:1.3.2:jar" level="project" />
+    <orderEntry type="library" name="SBT: io.scalac:slack-scala-bot-core_2.11:0.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.wandoulabs.akka:spray-websocket_2.11:0.1.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.slick:slick_2.11:2.1.0:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.akka:akka-slf4j_2.11:2.3.9:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe.akka:akka-actor_2.11:2.3.9:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.typesafe:config:1.2.1:jar" level="project" />
+    <orderEntry type="library" name="SBT: com.h2database:h2:1.4.186:jar" level="project" />
   </component>
 </module>
