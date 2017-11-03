@@ -1,5 +1,5 @@
 # This has the private key in it:
-src/main/main/resources/application.conf
+src/main/resources/application.conf
 
 *.class
 *.log
